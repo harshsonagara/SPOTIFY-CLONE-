@@ -9,4 +9,4 @@ YOU CAN CHANGE ANY THING AND USE IT ANY WHERE YOU LIKE FOR SIMPLE MUSIC PLAYER T
 
 HAVE YOURE OWN MUSIC PLAYER.
 
-### cradit goes to @codewithharry
+### credit goes to @codewithharry
